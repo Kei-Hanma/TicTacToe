@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MADTicTacToe</string>
+    <string name="tictactoe_title">TicTacToe </string>
+    <string name="X">Tap as Player "X" </string>
+    <string name="O">Tap as Player "O" </string>
+    <string name="Again">PLAY Again? </string>
+    <string name="name">by Nagal Charlie IT 3A </string>
+    />
+</resources>
